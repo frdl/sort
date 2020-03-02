@@ -1,6 +1,6 @@
 {
   "name": "@frdl/sort",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Duckytype/magic `sort` functions used by the frdl.js library.",
   "main": "index.js",
   "repository": "frdl/sort",	  
